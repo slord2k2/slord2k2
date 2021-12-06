@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @slord2k2 AKA Harsh Kishor
-- 👀 I’m interested in Web development and learning around Data Structure and Algorithm
+- 👀 I’m interested in Web development and learning Data Structure and Algorithm
 - 🌱 I’m currently learning React
 - 📫 You can reach me at harshkishor2003@gmail.com
 
